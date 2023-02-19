@@ -4,7 +4,7 @@ void main() {
   runApp(
     MaterialApp(
         home: Scaffold(
-      backgroundColor: Colors.deepPurpleAccent[700],
+      backgroundColor: const Color.fromRGBO(249, 244, 233, 1.0),
       appBar: AppBar(
         title: const Text('Butterfly'),
         backgroundColor: Colors.deepPurpleAccent[200],
