@@ -42,10 +42,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-# my properties XIII ^_^
-windows/
-linux/
-macos/
-ios/
-web/
